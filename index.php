@@ -25,9 +25,11 @@ body {
 
 <center>
 
-<img src="55.png"> <br>
-
-<table border="5">
+  <br>
+  <br>
+<img src="54.png"> <br>
+<br>
+<table border="8">
  <tr>
    <th>
 <font face="Bordoni MT Black" color="white" size=16>
