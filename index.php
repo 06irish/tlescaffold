@@ -39,7 +39,15 @@ body {
   
  
   <br>
-<img src="53.png"> <br>
+<img src="53.png"> 
+  
+  <br>
+  <br>
+  <br>
+
+  <font face="Garamond" color="white" white=16>
+    By: Group 19
+  </font>
 
 </body>
 </html>
