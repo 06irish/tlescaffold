@@ -27,26 +27,25 @@ body {
 <br>
   <br>
   <br>
-<table border="8">
+<table border="10">
  <tr>
    <th>
-<font face="Bordoni MT Black" color="white" size=16>
+<font face="Bordoni MT Black" color="white" size=17>
 
     3rd QUARTER </font>
     </th>
   </tr>
 </table>
   
- 
+ <br>
   <br>
 <img src="53.png"> 
   
   <br>
   <br>
-  <br>
-
+ 
   <font face="Garamond" color="white" size=16>
-    By: Group 19
+    <b> <i>  By: Group 19 </b> </i>
   </font>
 
 </body>
