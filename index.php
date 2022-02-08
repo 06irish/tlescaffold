@@ -45,7 +45,7 @@ body {
   <br>
   <br>
 
-  <font face="Garamond" color="white" white=16>
+  <font face="Garamond" color="white" size=16>
     By: Group 19
   </font>
 
