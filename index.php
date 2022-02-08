@@ -24,11 +24,9 @@ body {
 </p> </font> </b>
 
 <center>
-
-  <br>
-  <br>
-<img src="53.png"> <br>
 <br>
+  <br>
+  <br>
 <table border="8">
  <tr>
    <th>
@@ -38,6 +36,10 @@ body {
     </th>
   </tr>
 </table>
+  
+  <br>
+  <br>
+<img src="53.png"> <br>
 
 </body>
 </html>
