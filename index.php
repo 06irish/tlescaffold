@@ -25,7 +25,7 @@ body {
 
 <center>
 
-<img src="61.png" width=500> &nbsp &nbsp &nbsp <img src="60.png" width=250> <br>
+<img src="55.png"> <br>
 
 <table border="5">
  <tr>
