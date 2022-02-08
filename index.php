@@ -23,12 +23,6 @@ body {
 
 </p> </font> </b>
 
-<p align="left">
-
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-<img src="88.png" width="13%"> </p>
-
-
 <center>
 
 <img src="61.png" width=500> &nbsp &nbsp &nbsp <img src="60.png" width=250> <br>
