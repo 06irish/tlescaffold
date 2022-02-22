@@ -5,9 +5,10 @@
         #GFG {
             text-decoration: none;
         }
+
 </style>
 </head>
-<body bgcolor= "purple" link="green" vlink="yellow" alink="red">
+<body bgcolor= "purple" link="black" vlink="yellow" alink="purple">
 <br>
 <br>
 <center>
@@ -23,7 +24,7 @@
 <br>
 <br>
 
-<table bgcolor="white" border="8">
+<table style="width:1500px;" bgcolor="white" border="8">
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
