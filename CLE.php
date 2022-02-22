@@ -28,12 +28,10 @@
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
-          <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> Document </a>
+          <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit"> Document </a>
      </th>
   </tr>
-</table>
-
-<table bgcolor="white" border="8">
+&nbsp &nbsp &nbsp
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
