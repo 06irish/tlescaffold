@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<table style="width:1500px;" bgcolor="white" border="8">
+<table style="width:281.75px;height:134" bgcolor="white" border="8">
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
