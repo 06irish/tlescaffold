@@ -18,8 +18,9 @@
   </tr>
 </table>
 <br>
+  <br>
 <br>
-<font face="Broadway" size=6> MISS LILIVETH GUSTILLO </font>
+<font face="Broadway" size=6.5> MISS LILIVETH GUSTILLO </font>
 
 <br>
 <br>
