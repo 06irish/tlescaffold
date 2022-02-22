@@ -8,7 +8,7 @@
 
 </style>
 </head>
-<body bgcolor= "purple" link="black" vlink="yellow" alink="purple">
+<body bgcolor= "#A45EE5" link="black" vlink="yellow" alink="purple">
 <br>
 <br>
 <center>
