@@ -24,13 +24,13 @@
 <br>
 <br>
 
-<table style="width:281.75px;height:134" bgcolor="white" border="8">
+<table bgcolor="white" border="8" cellspacing="10">
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
           <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit"> Document </a>
      </th>
-       &nbsp &nbsp
+   
      <th> 
           <font face="Times New Roman" size="8"> 
           <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> PowerPoint <br> Presentation </a>
