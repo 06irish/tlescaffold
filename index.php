@@ -13,7 +13,7 @@ body {
 </style>
 </head>
 
-<STYLE>A {text-decoration: none;} 
+<STYLE> {text-decoration: none;} 
    <body link="green" vlink="yellow" alink="red" p align="right">
 <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
