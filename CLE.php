@@ -19,12 +19,12 @@
 </table>
 <br>
 <br>
-<font face="Broadway" size="6"> MISS LILIVETH GUSTILLO </font>
+<font face="Broadway" size="7"> MISS LILIVETH GUSTILLO </font>
 
 <br>
 <br>
 
-<table bgcolor="white" border="8" cellspacing="10">
+<table bgcolor="#A32CC4" border="8" cellspacing="10">
   <tr>
      <th> 
           <font face="Times New Roman" size="8"> 
