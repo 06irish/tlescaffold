@@ -7,7 +7,7 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; cover
 }
         #GFG {
             text-decoration: none;
