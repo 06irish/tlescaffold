@@ -1,6 +1,10 @@
 <html>
 <head> 
   <title> CLE </title>
+  }
+        #GFG {
+            text-decoration: none;
+        }
 </head>
 <body bgcolor= "purple">
 <br>
@@ -13,7 +17,30 @@
 </table>
 <br>
 <br>
-<font face="Broadway" size="9"> MISS LILIVETH GUSTILLO </font>
+<font face="Broadway" size="6"> MISS LILIVETH GUSTILLO </font>
+
+<br>
+<br>
+
+<table color="white" border="8">
+  <tr>
+     <th> <body link="green" vlink="yellow" alink="red"> 
+          <font face="Times New Roman" size=8> 
+          <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> MS Word </a>
+     </th>
+  </tr>
+</table>
+
+&nbsp %nbsp
+
+<table color="white" border="8">
+  <tr>
+     <th> <body link="green" vlink="yellow" alink="red"> 
+          <font face="Times New Roman" size=8> 
+          <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> PowerPoint Presentation </a>
+     </th>
+  </tr>
+</table>
 
 </center>
 </body>
