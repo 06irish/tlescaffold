@@ -3,7 +3,7 @@
 <title> Scaffold </title>
 <style>
 body { 
-  background: url(Background.png) no-repeat center center fixed; 
+  background: url(Background.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
