@@ -7,7 +7,7 @@
         }
 </style>
 </head>
-<body bgcolor= "purple">
+<body bgcolor= "purple" link="green" vlink="yellow" alink="red">
 <br>
 <br>
 <center>
@@ -23,9 +23,9 @@
 <br>
 <br>
 
-<table color="white" border="8">
+<table bgcolor="white" border="8">
   <tr>
-     <th> <body link="green" vlink="yellow" alink="red"> 
+     <th> 
           <font face="Times New Roman" size="8"> 
           <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> MS Word </a>
      </th>
@@ -34,9 +34,9 @@
 
 &nbsp &nbsp
 
-<table color="white" border="8">
+<table bgcolor="white" border="8">
   <tr>
-     <th> <body link="green" vlink="yellow" alink="red"> 
+     <th> 
           <font face="Times New Roman" size="8"> 
           <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> PowerPoint <br> Presentation </a>
      </th>
