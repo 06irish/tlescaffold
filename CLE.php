@@ -8,7 +8,7 @@
 
 </style>
 </head>
-<body bgcolor= "#A45EE5" link="black" alink="purple">
+<body bgcolor= "#A45EE5" link="black" vlink="black" alink="purple">
 <br>
 <br>
 <center>
@@ -24,13 +24,11 @@
 
 <br>
 <br>
-  <br>
-  <br>
-  <br>
+<br>
   
- <font face="Courier" size=12 color="yellow">
+ <font face="Courier" size=12 color="yellow"> <b>
      The Roots and Fruits of Depression
-  </font>
+   </font> </b>
   
   <br>
   <br>
