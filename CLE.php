@@ -32,12 +32,12 @@
   <tr>
      <th> 
           <font face="Times New Roman" size=8> 
-          <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit"> &nbsp Document &nbsp </a>
+          <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit">  Document<br>Form  </a>
      </th>
    
      <th> 
           <font face="Times New Roman" size=8> 
-          <a id="GFG" href="https://grp19-scaffold.herokuapp.com/"> PowerPoint <br> Presentation </a>
+          <a id="GFG" href="file:///C:/Users/my/Downloads/The-Roots-and-Fruits-of-Depression.pdf"> Poster<br>Form </a>
      </th>
   </tr>
 </table>
