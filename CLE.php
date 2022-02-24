@@ -32,7 +32,11 @@
   <tr>
      <th> 
           <font face="Times New Roman" size=8> 
-          <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit">  Document<br>Form  </a>
+            Document<br>Form </font>
+            <br>
+            <font face="Times New Roman" size=5>
+          <a id="GFG" href="https://docs.google.com/document/d/1BVrC26xK4ZANNlya0Ql_BHOeK63Ju_D7s7-MhMEnq_8/edit">  Google Docs  </a>
+          <a id="GFG" href="The-Roots-and-Fruits-of-Depression.docx">  MS Word  </a>
      </th>
    
      <th> 
