@@ -1,20 +1,34 @@
 <html>
-<head> 
-  <title> CAE </title>
-</head>
-<body bgcolor= "sky blue">
-<br>
-<br>
-<center>
-<table bgcolor="blue" border="5">
-  <tr>
-    <th> <font face="Times New Roman" size=14> <b> COMMUNICATION ARTS IN ENGLISH </font> </b> </th>
-  </tr>
-</table>
-<br>
-<br>
-<font face="Broadway" size="9"> Sir Ariel Villaceran </font>
+<head>
+<title> Message of Hope </title>
 
-</center>
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 73%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+}
+      a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+   </style>
+</head>
+
+   <body link="black" vlink="green" alink="white">
+<div class="container">
+  <img src="Background caew.png" alt="background" style="width:100%;">
+   <div class="centered"> 
+   <font face="Times New Roman" size="6">
+     <a href="https://www.canva.com/design/DAE5EyTx4-Y/G9jRmfuZsb270bXGo3Nk-w/edit"> Click Here </a></div>
+ </font> </b> </div>
 </body>
 </html>
