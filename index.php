@@ -6,7 +6,7 @@
   
 .top-right {
   position: absolute;
-  top: 8px;
+  top: 10px;
   right: 16px;
 }
       a:link {
@@ -23,7 +23,7 @@ a:visited {
 
 <div class="container">
   <img src="1.gif" alt="background" style="width:100%;">
-  <div class="top-right"> <br>
+  <div class="top-right">
       <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
