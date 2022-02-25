@@ -32,7 +32,7 @@ a:visited {
          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-    <a href="MATH.php">MATH</a> &nbsp;&nbsp;&nbsp;&nbsp; </div>
+    <a href="MATH.php">MATH</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
 
  </p> </font> </b> </div>
 </body>
