@@ -6,7 +6,7 @@
   
 .top-right {
   position: absolute;
-  top: 12px;
+  top: 13px;
   right: 16px;
 }
       a:link {
@@ -26,7 +26,7 @@ a:visited {
   <div class="top-right">
       <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
          
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
             <a href="CAE.php"> CAE </a>
          
