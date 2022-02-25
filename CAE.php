@@ -23,7 +23,7 @@ a:visited {
    </style>
 </head>
 
-   <body link="black" vlink="green" alink="white">
+   <body link="black" vlink="white" alink="wgreen">
 <div class="container">
   <img src="Background caew.png" alt="background" style="width:100%;">
    <div class="centered"> 
