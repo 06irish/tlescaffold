@@ -23,16 +23,16 @@ a:visited {
 
 <div class="container">
   <img src="1.gif" alt="background" style="width:100%;">
-  <div class="top-right"> <br> <br>
-      <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
+  <div class="top-right"> <br>
+      <font face="Times New Roman" size=13> <br> <a href="CLE.php">CLE</a>
          
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    
             <a href="CAE.php"> CAE </a>
          
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    
-    <a href="MATH.php">MATH</a></div> &nbsp &nbsp &nbsp &nbsp
+    <a href="MATH.php">MATH</a></div> &nbsp; &nbsp; &nbsp; &nbsp;
 
  </p> </font> </b> </div>
 </body>
