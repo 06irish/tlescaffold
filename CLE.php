@@ -8,7 +8,6 @@
   text-align: center;
   color: white;
 }
-}
       a:link {
   text-decoration: none;
 }
@@ -18,7 +17,7 @@ a:visited {
    </style>
 </head>
 
-   <body bgcolor="green" link="green" vlink="yellow" alink="red" p align="right">
+   <body link="green" vlink="yellow" alink="red" p align="right">
 <div class="container">
   <img src="Background cle.png" alt="background" style="width:100%;">
   <div class="top-right"> <br>
