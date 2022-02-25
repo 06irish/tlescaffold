@@ -2,7 +2,13 @@
 <head>
 <title> Performance Task </title>
 
-   <style>
+      <style>
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
       a:link {
   text-decoration: none;
 }
@@ -15,8 +21,9 @@ a:visited {
 
    <body bgcolor="green" link="green" vlink="yellow" alink="red" p align="right">
 
-      <img src="Backgroundd.gif">
-
+<div class="container">
+  <img src="img_snow_wide.jpg" alt="snow" style="width:100%;">
+  <div class="top-right"> 
       <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
          
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
@@ -25,9 +32,8 @@ a:visited {
          
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
    
-<a href="MATH.php">MATH</a> &nbsp &nbsp &nbsp &nbsp
+    <a href="MATH.php">MATH</a></div> &nbsp &nbsp &nbsp &nbsp
 
- </p> </font> </b>
-
+ </p> </font> </b> </div>
 </body>
 </html>
