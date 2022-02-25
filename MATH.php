@@ -10,8 +10,8 @@
 }
 .centered {
   position: absolute;
-  top: 80%;
-  left: 59%;
+  top: 73%;
+  left: 58%;
   transform: translate(-50%, -50%);
 }
       a:link {
