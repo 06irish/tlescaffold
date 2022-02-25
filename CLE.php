@@ -28,7 +28,7 @@ a:visited {
   <img src="Background cle.png" alt="background" style="width:100%;">
    <div class="centered"> 
    <font face="Times New Roman" size=5>
-     <a href="The-Roots-and-Fruits-of-Depression.docx">  Document  </a> </div> </body>
+     <a href="The-Roots-and-Fruits-of-Depression.docx">  Document &nbsp;&nbsp;&nbsp; </a> </div> </body>
   <body link="green" vlink="black" alink="white">
     <div class="centered">
           <a href="The-Roots-and-Fruits-of-Depression.pdf"> &nbsp;&nbsp; Poster Form  </a></div>
