@@ -2,7 +2,9 @@
 <head>
 <title> Performance Task </title>
 
-      <style>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      
+ <style>
 
 .top-right {
   position: absolute;
