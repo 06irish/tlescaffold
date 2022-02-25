@@ -6,7 +6,7 @@
   
 .top-right {
   position: absolute;
-  top: 25px;
+  top: 23px;
   right: 16px;
 }
       a:link {
