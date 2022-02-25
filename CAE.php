@@ -10,8 +10,8 @@
 }
 .centered {
   position: absolute;
-  top: 73%;
-  left: 58%;
+  top: 70%;
+  left: 15%;
   transform: translate(-50%, -50%);
 }
       a:link {
@@ -27,7 +27,7 @@ a:visited {
 <div class="container">
   <img src="Background caew.png" alt="background" style="width:100%;">
    <div class="centered"> 
-   <font face="Times New Roman" size="6">
+   <font face="Times New Roman" size="7">
      <a href="https://www.canva.com/design/DAE5EyTx4-Y/G9jRmfuZsb270bXGo3Nk-w/edit"> Click Here </a></div>
  </font> </b> </div>
 </body>
