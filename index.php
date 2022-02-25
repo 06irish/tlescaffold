@@ -4,11 +4,13 @@
 </head>
 
    <body bgcolor="green" link="green" vlink="yellow" alink="red" p align="right">
-<img src="Backgroundd.gif" width=100% height=100%>
+<img src="1.gif">
 <font face="Times New Roman" size=13> <b> <a href="CLE.php" style="text-decoration: none;>CLE</a>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+   
 <a href="CAE.php" style="text-decoration: none;>CAE</a>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+   
 <a href="MATH.php" style="text-decoration: none;>MATH</a> &nbsp &nbsp &nbsp &nbsp
 
  </p> </font> </b>
