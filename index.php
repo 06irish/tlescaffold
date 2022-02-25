@@ -3,7 +3,12 @@
 <title> Performance Task </title>
 
  <style>
-
+  
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 .top-right {
   position: absolute;
   top: 8px;
