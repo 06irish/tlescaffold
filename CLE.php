@@ -10,8 +10,8 @@
 }
 .centered {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 55%;
+  left: 75%;
   transform: translate(-50%, -50%);
 }
       a:link {
@@ -23,19 +23,15 @@ a:visited {
    </style>
 </head>
 
-   <body link="green" vlink="yellow" alink="red" p align="right">
+   <body link="white" vlink="black" alink="black">
 <div class="container">
   <img src="Background cle.png" alt="background" style="width:100%;">
-   <div class="centered"> <br>
-      <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
-         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-            <a href="CAE.php"> CAE </a>
-         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-    <a href="MATH.php">MATH</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
- </p> </font> </b> </div>
+   <div class="centered"> 
+   <font face="Times New Roman" size=5>
+     <a href="The-Roots-and-Fruits-of-Depression.docx">  Document  </a> </div> </body>
+  <body link="green" vlink="black" alink="white">
+    <div class="centered">
+          <a href="The-Roots-and-Fruits-of-Depression.pdf"> &nbsp;&nbsp; Poster Form  </a></div>
+ </font> </b> </div>
 </body>
 </html>
