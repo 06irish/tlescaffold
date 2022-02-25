@@ -19,7 +19,7 @@ a:visited {
    </style>
 </head>
 
-   <body bgcolor="green" link="green" vlink="yellow" alink="red" p align="right">
+   <body bgcolor="green" link="green" vlink="white" alink="black">
 
 <div class="container">
   <img src="1.gif" alt="background" style="width:100%;">
@@ -34,6 +34,6 @@ a:visited {
    
     <a href="MATH.php">MATH</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
 
- </p> </font> </b> </div>
+ </font> </b> </div>
 </body>
 </html>
