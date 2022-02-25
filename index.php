@@ -22,7 +22,7 @@ a:visited {
    <body bgcolor="green" link="green" vlink="yellow" alink="red" p align="right">
 
 <div class="container">
-  <img src="1.gif" alt="background" style="width:100%;height:100%">
+  <img src="1.gif" alt="background" style="width:100%;">
   <div class="top-right"> <br>
       <font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
          
