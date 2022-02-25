@@ -10,8 +10,8 @@
 }
 .centered {
   position: absolute;
-  top: 60%;
-  left: 60%;
+  top: 59%;
+  left: 63%;
   transform: translate(-50%, -50%);
 }
       a:link {
@@ -28,7 +28,7 @@ a:visited {
   <img src="Background cle.png" alt="background" style="width:100%;">
    <div class="centered"> 
    <font face="Times New Roman" size="6">
-     <a href="The-Roots-and-Fruits-of-Depression.docx">  Document &nbsp;&nbsp; </a> </body>
+     <a href="The-Roots-and-Fruits-of-Depression.docx">  &nbsp; Document &nbsp; </a> </body>
   <body link="green" vlink="black" alink="white">
           <a href="The-Roots-and-Fruits-of-Depression.pdf"> Poster Form </a></div>
  </font> </b> </div>
