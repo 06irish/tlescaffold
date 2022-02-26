@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Message of Hope </title>
+<title> Critique Paper </title>
 
 <style>
 .container {
