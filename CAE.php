@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Critique Paper </title>
+<title> The Strongest Predictor of Success </title>
 
 <style>
 .container {
@@ -28,7 +28,7 @@ a:visited {
   <img src="Background caew.png" alt="background" style="width:100%;">
    <div class="centered"> 
    <font face="Times New Roman" size="7">
-     <a href="https://github.com/06irish/tlescaffold"> Click Here </a></div>
+     <a href="The-Strongest-Predictor-of-Success.pdf"> Click Here </a></div>
  </font> </b> </div>
 </body>
 </html>
