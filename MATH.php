@@ -28,7 +28,7 @@ a:visited {
   <img src="Background math.png" alt="background" style="width:100%;">
    <div class="centered"> 
    <font face="Times New Roman" size="6">
-     <a href="https://www.canva.com/design/DAE5EyTx4-Y/G9jRmfuZsb270bXGo3Nk-w/edit"> Click Here </a></div>
+     <a href="https://www.youtube.com/watch?v=sxzPrgUNhKk"> Click Here </a></div>
  </font> </b> </div>
 </body>
 </html>
